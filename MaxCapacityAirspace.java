@@ -77,7 +77,7 @@ public class MaxCapacityAirspace {
 		BufferedReader br = null;
 
 		// Please input your data file here
-		String inputDetailsFile = "C:/My Stuff- DISK F/ASU Sem 1/FOA/HW4/dataset.csv";
+		String inputDetailsFile = "dataset.csv";
 		String line = "";
 
 		// Storing the data so that it can be converted to an adjacency matrix
